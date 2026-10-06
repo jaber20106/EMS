@@ -1,8 +1,11 @@
+import Login from './components/Auth/Login.jsx'
 const App = () => {
   return (
-    <div className = "flex items-center justify-center">
-      app
-    </div>
+    <>
+    
+      <Login />
+    
+    </>
   )
 }
 
